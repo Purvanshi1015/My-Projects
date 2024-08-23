@@ -1,0 +1,76 @@
+{
+  "MusicDatabase": [
+    {
+      "id": 0,
+      "name":"Lost",
+      "singer":"Obito",
+      "path":"Asset/audio/LOST  Obito OFFICIAL MV.mp3",
+      "image":"Asset/image/lost.png"
+    }
+    , {
+      "id": 1,
+      "name":"Lần Cuối",
+      "singer":"Ngọt",
+      "path":"Asset/audio/LẦN CUỐI đi bên em xót xa người ơi.mp3",
+      "image":"Asset/image/LanCuoi.png"
+
+    },
+    {
+      "id": 2,
+      "name":"Suit & Tie",
+      "singer":"MCK ft Hoàng Tôn",
+      "path":"Asset/audio/03 Suit  Tie  RPT MCK  ft Hoàng Tôn.mp3",
+      "image":"Asset/image/Mck.png"
+    },
+    {
+      "id": 3,
+      "name":"Xanh",
+      "singer":"Ngọt",
+      "path":"Asset/audio/Ngot  Xanh.mp3",
+      "image":"Asset/image/LanCuoi.png"
+    },
+    {
+      "id": 4,
+      "name":"Green Love",
+      "singer":" Qnt ft Chill&Free",
+      "path":"Asset/audio/Chillnfree  GREEN LOVE  CASHMEL ft QNT Prod by RASTZ.mp3",
+      "image":"Asset/image/GreenLove.png"
+    },
+    {
+      "id": 5,
+      "name":"Soju love",
+      "singer":"Obito",
+      "path":"Asset/audio/SOJU LOVE  Obito  Official Music Video.mp3",
+      "image":"Asset/image/SojuLove.png"
+    },
+    {
+      "id": 6,
+      "name":"Tiền là chi",
+      "singer":"Obito ft OceanMob",
+      "path":"Asset/audio/TIỀN LÀ CHI  MCREDIT X OCEAN MOB OBITO GILL XOLITXO WAVY WILLISTIC  OFFICIAL MUSIC VidEO.mp3",
+      "image":"Asset/image/lost.png"
+    },
+    {
+      "id": 7,
+      "name": "Cau Vinh Tuy",
+      "singer": "Wren evan",
+      "path": "Asset/audio/Y2meta.app - WREN EVANS - Cầu Vĩnh Tuy _ LOI CHOI The First Album (ft. itsnk) (128 kbps).mp3",
+      "image":"Asset/image/WrenEvans.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Phong do tim em",
+      "singer": "Wren evan",
+      "path": "Asset/audio/Y2meta.app - WREN EVANS - Phóng Đổ Tim Em _ LOI CHOI The First Album (ft. itsnk) (128 kbps).mp3",
+      "image":"Asset/image/WrenEvans.jpg"
+    },
+
+    {
+      "id": 9,
+      "name": "To Te Ti",
+      "singer": "Wren evan",
+      "path": "Asset/audio/Y2meta.app - WREN EVANS - Tò Te Tí _ LOI CHOI The First Album (ft. itsnk) (128 kbps).mp3",
+      "image":"Asset/image/WrenEvans.jpg"
+    }
+    ]
+}
